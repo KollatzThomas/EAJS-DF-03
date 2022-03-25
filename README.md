@@ -1,10 +1,8 @@
-# epidat
-## names, dates, places
+# EAJS Jour Fixe #3
+## (Very) short introduction into Digital Editing with TEI
 
 presented by : Thomas Kollatz
 
-presented at : SfP 2021
+Zoom 2022-03-25
 
-Zoom 2021-12-09
-
-slides are [online](https://digicademy.github.io/SFP2021)
+slides are [online](https://kollatzthomas.github.io/EAJS-DF-03)
